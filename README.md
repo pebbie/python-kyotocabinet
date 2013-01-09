@@ -13,3 +13,5 @@ what i did :
 you will get kyotocabinet.pyd in build directory
 
 WARNING: use at your own risk!
+
+precompiled kyotocabinet.pyd (py2.6-win32) : http://db.tt/CMoViJYu
